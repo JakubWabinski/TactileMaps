@@ -1,5 +1,5 @@
-# ThematicTactileMaps
-Repository related with the automatic tactile map generation project
+# TactileMaps
+Repository of tactile maps that I have created or co-created
 
 # File descriptions:
 - GraphicMapVariant.pdf >> the resulting graphic map variant used as an underlay for the final product.
