@@ -5,4 +5,4 @@
 - ThematicPointGeneralization.py >> Python algorithm used for selection and displacement of the thematic point symbols (mineral resources layer).
 - MapEvaluationForm >> The form that was used to evaluate success rate of particular spatial tasks and gather participants' feedback during the map evaluation phase.
 
-For more details refer to https://www.tandfonline.com/doi/full/10.1080/15230406.2022.2105747#abstract
+For more details refer to https://www.tandfonline.com/doi/full/10.1080/15230406.2022.2105747
